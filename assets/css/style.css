@@ -187,6 +187,8 @@ a {
 .position-desc p a {
     text-decoration: none;
     color: #b0b3b8;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 .position-desc p a:hover {
